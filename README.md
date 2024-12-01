@@ -1,4 +1,4 @@
-#d doveloper Demo
+# doveloper Demo
 this is my first repository
->br>
+<br>
 author - sumit kumar
